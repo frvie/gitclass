@@ -1,0 +1,2 @@
+# gitclass
+just another repository
